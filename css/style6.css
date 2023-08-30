@@ -1,0 +1,30 @@
+.Cart-Items{
+ margin: auto;
+ width: 90%;
+ height: 30%;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+.image-box{
+ width: 15%;
+ text-align: center;
+}
+.about{
+ height: 100%;
+}
+.title{
+ padding-top: 10px;
+ line-height: 15px;
+ font-size: 32px;
+ font-family: ‘Open Sans’;
+ font-weight: 800;
+ color: #202020;
+}
+.subtitle{
+ line-height: 15px;
+ font-size: 19px;
+ font-family: ‘Open Sans’;
+ font-weight: 600;
+ color: #909090;
+}
